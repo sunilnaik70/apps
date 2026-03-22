@@ -1,2 +1,3 @@
 create file
 opend google 
+opened terminal
